@@ -26,5 +26,6 @@
         "**/pxt_modules": true,
         "**/.pxt": true,
         "**/mkc.json": true
-    }
+    },
+    "editor.formatOnSave": true
 }

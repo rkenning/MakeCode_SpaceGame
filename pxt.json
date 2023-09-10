@@ -1,0 +1,23 @@
+{
+    "name": "space Game1",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.36",
+        "tag": "v1.12.36",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e7b91fde1aac75ec4eac478e6a2d132891a06eb9",
+        "target": "1.12.36",
+        "pxt": "8.5.49"
+    },
+    "preferredEditor": "tsprj"
+}

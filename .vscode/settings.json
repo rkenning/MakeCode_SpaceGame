@@ -27,5 +27,6 @@
         "**/.pxt": true,
         "**/mkc.json": true
     },
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Kimbie Dark"
 }
